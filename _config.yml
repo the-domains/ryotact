@@ -1,0 +1,28 @@
+name: Ryöt A.Ct.
+favicon: null
+layout_spectrum: 0.9764628305565566
+typography_spectrum: 0.6817513001151383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1749263838864863
+  lightness: 0.8418913991190493
+  saturation: 0.2964725068304688
+  rhythmicContrast: 0.4597397483885288
+purpose: []
